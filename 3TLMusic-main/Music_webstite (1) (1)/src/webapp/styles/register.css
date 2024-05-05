@@ -1,0 +1,9 @@
+body {
+    margin: 0;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to bottom, #8B0000, #000000);
+    color: #ffffff; /* Màu chữ trắng */
+}
